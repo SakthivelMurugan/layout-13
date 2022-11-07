@@ -93,6 +93,7 @@
 	height:200px;
 	width:500px;
 	background-color:pink;
+	margin:10px;
 }
 .template .split .split2
 {
@@ -149,4 +150,5 @@
 	height:20px;
 	width:70px;
 	background-color:white;
+	margin:10px;
 }
