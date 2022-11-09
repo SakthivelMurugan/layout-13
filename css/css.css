@@ -2,8 +2,6 @@
 {
 	display:flex;
 	flex-direction:column;
-	border:2px solid black;
-	margin:160px;
 	margin-top:10px;
 	margin-bottom:10px;
 }
@@ -20,8 +18,8 @@
 }
 .template .top .head .text
 {
-	height:50px;
-	width:200px;
+	height:60px;
+	width:250px;
 	background-color:yellow;
 	margin:0 auto;
 	margin-top:5px;
@@ -29,8 +27,8 @@
 }
 .template .top .head .dark
 {
-	height:50px;
-	width:250px;
+	height:80px;
+	width:300px;
 	background-color:white;
 	margin:0 auto;
 	margin-top:25px;
@@ -45,8 +43,8 @@
 }
 .template .top .menu .button
 {
-	height:20px;
-	width:50px;
+	height:30px;
+	width:80px;
 	background-color:blue;
 	margin:10px;
 }
@@ -70,16 +68,16 @@
 .template .split .split1  .split11 .box
 {
 	
-	height:100px;
+	height:150px;
 	width:300px;
 	background-color:orange;
-	margin-top:60px;
+	margin-top:50px;
 	margin-bottom:0px;
 }
 .template .split .split1  .split11 .button
 {
-	height:20px;
-	width:50px;
+	height:30px;
+	width:80px;
 	background-color:red;
 	margin-top:0px;
 	margin-left:120px;
@@ -90,32 +88,35 @@
 }
 .template .split .split1 .split12 .photo
 {
-	height:200px;
+	height:250px;
 	width:500px;
 	background-color:pink;
 	margin:10px;
+	margin-left:0px;
 }
 .template .split .split2
 {
 	display:flex;
 	justify-content:center;
-	border-top:2px solid brown;
+	background-color:teal;
 	border-bottom:2px solid brown;
 }
 .template .split .split21
 {
-	height:100px;
-	width:200px;
+	height:200px;
+	width:400px;
 	display:flex;
 	flex-direction:column;
-	border:1px solid brown;
 	margin-bottom:10px;
 	margin-top:10px;
+	justify-content:center;
+	align-items:center;
+	background-color:white;
 }
 .template .split .split21 .dark
 {
-	height:20px;
-	width:60px;
+	height:30px;
+	width:80px;
 	background-color:black;
 	margin:0 auto;
 	margin-bottom:5px;
@@ -123,8 +124,8 @@
 }
 .template .split .split21 .big
 {
-	height:30px;
-	width:70px;
+	height:40px;
+	width:90px;
 	background-color:gray;
 	margin:0 auto;
 	margin-bottom:5px;
@@ -132,8 +133,8 @@
 }
 .template .split .split21 .text
 {
-	height:40px;
-	width:100px;
+	height:50px;
+	width:120px;
 	background-color:blue;
 	margin:0 auto;
 	margin-bottom:5px;
@@ -147,8 +148,8 @@
 }
 .template .footer .text
 {
-	height:20px;
-	width:70px;
+	height:30px;
+	width:80px;
 	background-color:white;
 	margin:10px;
 }
